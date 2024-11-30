@@ -399,3 +399,13 @@ nav .fa-solid{
     margin-top: -40px;
     display: block;
 }
+
+/* Preloader */
+
+#preloader {
+    background: #000 url(Images/Loading.gif) no-repeat center;
+    height: 100vh;
+    width: 100%;
+    position: fixed;
+    z-index: 100;
+}
